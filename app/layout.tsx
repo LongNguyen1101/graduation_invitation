@@ -10,7 +10,7 @@ const _crimsonText = Crimson_Text({ subsets: ["latin", "vietnamese"], weight: ["
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Graduation Invitation",
+  title: "Thư mời Tốt Nghiệp",
   description: "You are invited to celebrate this special milestone",
   generator: "v0.app",
   icons: {
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/icon.svg",
+        url: "/graduation-favicon.svg",
         type: "image/svg+xml",
       },
     ],
