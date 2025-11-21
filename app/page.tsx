@@ -237,7 +237,7 @@ export default function GraduationInvitation() {
                           <p className="text-xs mb-1" style={{ color: "#8b7355" }}>
                             Tại
                           </p>
-                          <p className="text-lg font-serif" style={{ color: "#5d4e37" }}>
+                          <p className="text-lg font-serif underline" style={{ color: "#5d4e37" }}>
                             Trường Đại học Công nghệ Thông tin (UIT)
                           </p>
                           <p>Đại học Quốc gia TP. HCM</p>
@@ -255,10 +255,9 @@ export default function GraduationInvitation() {
 
                 {/* Closing Message */}
                 <div className="animate-fade-in text-center space-y-2" style={{ animationDelay: "0.8s" }}>
-                  <p className="leading-relaxed italic text-xs" style={{ color: "#8b7355" }}>
-                    Con/em xin gửi lời cảm ơn chân thành đến gia đình và bạn bè vì sự hỗ trợ và khích lệ suốt hành
-                    trình học tập này.
-                  </p>
+                <p className="text-sm mt-2" style={{ color: "#8b7355" }}>
+                  SĐT liên hệ: <a href="tel:0908561071" style={{ color: "inherit", textDecoration: "underline" }}>0908 561 071</a>
+                </p>
                   <p className="text-xs uppercase tracking-widest" style={{ color: "#a68568" }}>
                     Xin Cảm Ơn
                   </p>
