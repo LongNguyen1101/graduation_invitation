@@ -191,7 +191,6 @@ export default function GraduationInvitation() {
                   <div className="text-8xl">🎓</div>
                 </div>
 
-
                 {/* Decorative Divider */}
                 <div className="animate-fade-in flex justify-center gap-3" style={{ animationDelay: "0.4s" }}>
                   <div className="w-6 h-px" style={{ backgroundColor: "#d4a574" }}></div>
@@ -209,7 +208,7 @@ export default function GraduationInvitation() {
                 >
                   <div className="text-center">
                     <p className="text-xs uppercase tracking-widest mb-3" style={{ color: "#8b7355" }}>
-                      Con/em kính mời cậu Hiển, cô Trinh và các anh chị em đến tham dự
+                      Kính mời gia đình và bạn bè đến tham dự
                     </p>
 
                     <div className="space-y-3">
@@ -218,7 +217,7 @@ export default function GraduationInvitation() {
                           Lễ tốt nghiệp của
                         </p>
                         <p className="text-lg font-serif" style={{ color: "#5d4e37" }}>
-                          con/em  NGUYỄN HOÀNG LONG
+                          NGUYỄN HOÀNG LONG
                         </p>
                       </div>
 
@@ -227,7 +226,7 @@ export default function GraduationInvitation() {
                           Vào lúc
                         </p>
                         <p className="text-lg font-serif" style={{ color: "#5d4e37" }}>
-                          10h30 ngày 27/11/2025
+                          11h30 ngày 27/11/2025
                         </p>
                       </div>
 
