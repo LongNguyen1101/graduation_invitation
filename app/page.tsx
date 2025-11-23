@@ -176,7 +176,7 @@ export default function GraduationInvitation() {
                 </div>
 
                 {/* Graduation Illustration */}
-                <div className="animate-fade-in flex justify-center py-4" style={{ animationDelay: "0.2s" }}>
+                {/* <div className="animate-fade-in flex justify-center py-4" style={{ animationDelay: "0.2s" }}>
                   <svg width="100" height="120" viewBox="0 0 120 140" className="drop-shadow-lg">
                     <rect x="35" y="45" width="50" height="60" fill="#5d4e37" />
                     <rect x="25" y="35" width="70" height="12" fill="#5d4e37" />
@@ -186,7 +186,11 @@ export default function GraduationInvitation() {
                     <rect x="80" y="60" width="20" height="30" fill="#f5deb3" stroke="#8b7355" strokeWidth="1.5" />
                     <circle cx="82" cy="62" r="1.5" fill="#8b7355" />
                   </svg>
+                </div> */}
+                <div className="flex justify-center items-center py-10">  
+                  <div className="text-8xl">🎓</div>
                 </div>
+
 
                 {/* Decorative Divider */}
                 <div className="animate-fade-in flex justify-center gap-3" style={{ animationDelay: "0.4s" }}>
@@ -205,7 +209,7 @@ export default function GraduationInvitation() {
                 >
                   <div className="text-center">
                     <p className="text-xs uppercase tracking-widest mb-3" style={{ color: "#8b7355" }}>
-                      Kính mời gia đình và bạn bè đến tham dự
+                      Con/em kính mời cậu Hiển, cô Trinh và các anh chị em đến tham dự
                     </p>
 
                     <div className="space-y-3">
@@ -214,7 +218,7 @@ export default function GraduationInvitation() {
                           Lễ tốt nghiệp của
                         </p>
                         <p className="text-lg font-serif" style={{ color: "#5d4e37" }}>
-                          NGUYỄN HOÀNG LONG
+                          con/em  NGUYỄN HOÀNG LONG
                         </p>
                       </div>
 
@@ -223,7 +227,7 @@ export default function GraduationInvitation() {
                           Vào lúc
                         </p>
                         <p className="text-lg font-serif" style={{ color: "#5d4e37" }}>
-                          11h30 ngày 27/11/2025
+                          10h30 ngày 27/11/2025
                         </p>
                       </div>
 
